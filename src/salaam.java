@@ -7,4 +7,6 @@ public class salaam {
 
     // adding a new line
 
+    //aslo not also another one
+
 }
